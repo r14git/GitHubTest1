@@ -6,4 +6,4 @@
 "this is other line edited with VI"
 "just testing"
 "another one from VI with pull request"
-
+"test of pull request"
